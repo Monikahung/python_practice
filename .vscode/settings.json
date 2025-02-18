@@ -1,0 +1,8 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 14,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Noctis Minimus",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.minimap.enabled": false
+}
